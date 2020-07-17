@@ -16,4 +16,4 @@ docker rm <container_name>
 docker rmi <image_name>
 ```
 
-4. Use Dockercompse to run a Docker image.
+4. Use Docker compse to run a Docker image.
