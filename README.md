@@ -1,4 +1,4 @@
-# Docker Parctice
+# Docker Practice
 Build and run a Docker image using Dockerfile or Docker compose.
 
 ## Target: Dockerizing a Node.js web app
